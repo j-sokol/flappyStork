@@ -2,6 +2,13 @@
 
 Reimplementation of Flappy Bird in console. This was little project for me to pick up Go language. Library tcell was used for rendering graphics.
 
+## Screenshots
+
+![](assets/screenshots/screen1.png) 
+
+# Disclaimer
+
+The game is in really early stage of developement and not really playable :)
 
 ## How to run
 You need to have Go compiler downloaded. Then run
@@ -13,7 +20,6 @@ and you can run it using
 ./flappyStork
 ```
 
-## Screenshots
 
 ### Graphics kudos
 
